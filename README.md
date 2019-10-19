@@ -1,2 +1,3 @@
 # Fractals
-Fractals, Cuda
+
+Code snippets for generating fractals using the numba framework and cuda
